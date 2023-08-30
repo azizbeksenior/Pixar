@@ -1,0 +1,40 @@
+.Supplier .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1621616063729-748Z0HN9HJBYBNDK568Y/20160701PixarCampus11.JPG?format=2500w');
+}
+.Supplier1 a {
+    text-decoration: 1px solid aqua underline;
+    color: aqua;
+}
+.Supplier1{
+    width: 1100px;
+    margin: auto;
+}
+.Supplier1 p{
+    font-size: 20px;
+    color: rgb(69, 69, 69);
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 40px;
+}
+.Supplier1 ul{
+    margin-left: 20px;
+}
+.Supplier1 ul li{
+    list-style: initial;
+    font-size: 20px;
+    color: rgb(69, 69, 69);
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 40px;
+}
+.Supplier1 ol li{
+    list-style: initial;
+    font-size: 20px;
+    color: rgb(69, 69, 69);
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 40px;
+}
+.Supplier1 ul #li {
+    margin-left: 50px;
+}

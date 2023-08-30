@@ -1,0 +1,19 @@
+.Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1597336288186-58II1Q47W06F0XQ4AQS0/20171218SteamProductionLeadTeamMeeting30.jpg?format=2500w');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Baner_a2 h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 10px;
+    width: 1000px;
+    text-align: center;
+}

@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 150px;
+    width: 98vw;
+}
+.Header nav ul{
+    display: flex;
+}
+.Header nav ul li{
+    padding: 15px;
+    position: relative;
+    float: left;
+    letter-spacing: 2px;
+}
+.Header nav ul li ul{
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 40px;
+    width: 260px;
+    background-color: rgb(35, 34, 34);
+    padding: 8px;
+}
+.Header nav ul li ul li{
+    width: 100%;
+    margin: 0;
+    padding: 7px;
+}
+li a{color: black;}
+.Header nav ul li:hover > ul{display: inline; transform: translateY(0);}
+.Header nav ul li a:hover{color: gray;}
+#li_a{color: white;}

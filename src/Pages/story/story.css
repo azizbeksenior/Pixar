@@ -1,0 +1,88 @@
+.Story .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1540500412606-5EME5E3BGDG6PXVFDO7A/story2.jpg?format=2500w');
+    height: 720px;
+}
+.Story1 ,.Story2{
+    width: 1000px;
+    margin: auto;
+}
+.Story1 #h1{
+    text-align: center;
+    font-size: 35px;
+}
+.Story1_0 .About_str .About_str_img3 , .Story1_0 .About_str .About_str_img4{
+    display: none;
+}
+.Story1_1 .About_str img {
+    display: none;  
+}
+.Story1_2 .About_str .About_str_img4 img{
+    display: none;
+}
+.Story1_3 .About_str .About_str_img3 , .Story1_3 .About_str .About_str_img4{
+    display: none;
+}
+.Story1_4 .About_str .About_str_img3{
+    display: none;
+}
+.img4{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+}
+.img4 img{
+    width: 240px;
+    height: 240px;
+}
+.Story .Baner_1 .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1417653393857-6SJXZGIGV77UUMEY30K2/ts_head.jpg?format=2500w');
+    height: 1000px;
+}
+.Story1_5 .About_str .About_str_img3{
+    display: none;
+}
+.Story1_5 .About_str .About_str_img4 img{
+    height: 260px;
+}
+.Story1_6 .About_str .About_str_img3{
+    display: none;
+}
+.Story2 .Story1_6 .About_str_img4 img{
+    width: 240px;
+    height: 260px;
+}
+#aas .About_str .About_str_img4 img{
+    height: 220px;
+}
+.Story2 .About_str1 .img1{
+    display: block;
+}
+.Story1_7 .About_str .About_str_img3{
+    display: none;
+}
+.Story2_1 .About_str1 .img{
+    display: inline;
+}
+.Story2_1 .About_str1 .img1{
+    display: none;
+}
+.Story2_2 .About_str1 .img1{
+    display: none;
+}
+.Story2_2 .About_str1 .img2{
+    display: inline;
+}
+.Story22 .img{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.Story22 .img img{
+    width: 230px;
+    height: 220px;
+}
+.Story22 ul li{
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    color: gray;
+}

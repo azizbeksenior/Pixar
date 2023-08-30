@@ -1,0 +1,19 @@
+.Toy_story_toons .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1547160721072-GXSOE8S3RBTBUTYC1JIH/tsthead.jpg?format=2500w');
+}
+.Toy_story_toons1{
+    width: 1200px;
+    margin: auto;
+}
+.Toy_story_toons11{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.Toy_story_toons11 .Animation img {
+    width: 200px;
+    height: auto;
+    margin-top: 150px;
+}
+.Animation{
+    width: 200px;
+}

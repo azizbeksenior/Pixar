@@ -1,0 +1,31 @@
+.About_str #img_1{
+    width: 1000px;
+    margin-top: 60px;
+}
+.About_str p{
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    color: gray;
+}
+.About_str_img3{
+    display: flex;
+    grid-template-columns: auto auto auto;
+    gap: 30px;
+}
+.About_str_img3 img{
+    width: 310px;
+    height: 300px;
+}
+#img_2{
+    width: 1000px;
+}
+.About_str_img4{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+}
+.About_str_img4 img{
+    width: 230px;
+    height: 230px;
+}

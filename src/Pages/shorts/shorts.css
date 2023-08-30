@@ -1,0 +1,26 @@
+.Shorts .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1686849530151-BJL3AO4DHGRAZ6B7QX8T/d080_203e.pub16.272.jpg?format=2500w');
+}
+.Shorts1{
+    width: 1100px;
+    margin: auto;
+}
+.Shorts1 #p{
+    font-size: 20px;
+    color: gray;
+    letter-spacing: 1px;
+    line-height: 40px;
+}
+.Shorts1 .Animation{
+    width: 200px;
+}
+.Shorts1 .Animation img{
+    width: 200px;
+    height: 280px;
+}
+.Shorts11{
+    margin-top: 50px;
+    gap: 80px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}

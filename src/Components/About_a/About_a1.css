@@ -1,0 +1,13 @@
+.About_a1 img{width: 900px;}
+.About_a1 h1{
+    font-size: 45px;
+    font-weight: 200;
+    letter-spacing: 1px;
+}
+.About_a1 p{
+    font-size: 20px;
+    color: gray;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-align: justify;
+}

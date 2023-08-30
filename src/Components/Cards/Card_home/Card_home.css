@@ -1,0 +1,12 @@
+.Card_home{
+    width: 390px;
+    margin: 25px;
+}
+.Card_home a img{width: 390px;}
+.Card_home p {
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 13px;
+    font-weight: 700;
+    margin: 10px;
+}

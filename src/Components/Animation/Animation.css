@@ -1,0 +1,13 @@
+.Animation{
+    width: 280px;
+}
+.Animation a img{
+    width: 280px;
+    height: 414px;
+}
+.Animation p{
+    font-weight: 100;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 10px;
+}

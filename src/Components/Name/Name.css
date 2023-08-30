@@ -1,0 +1,14 @@
+.Name{
+    width: 400px;
+    margin: auto;
+}
+.Name a{
+    color: black;
+    font-weight: 600;
+    letter-spacing: 5px;
+    text-decoration: solid 1px underline;
+}
+.Name p{
+    font-weight: 400;
+    letter-spacing: 5px;
+}

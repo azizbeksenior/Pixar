@@ -1,0 +1,18 @@
+.About_p1{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 100px;
+}
+.About_p1 img{
+    width: 200px;
+}
+.About_p1_1 h1{
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 50px;
+}
+.About_p1_1 .p{
+    font-size: 20px;
+    color: gray;
+    line-height: 45px;
+}

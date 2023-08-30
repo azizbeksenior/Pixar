@@ -1,0 +1,12 @@
+.Baner{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1677543050372-2ZB3B2WO3YINULKF12F8/header_3.jpg?format=2500w');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 1220px;
+    background-color: black;
+}
+.Baner img{
+    margin: 800px 0px 0px 430px;
+    width: 700px;
+}

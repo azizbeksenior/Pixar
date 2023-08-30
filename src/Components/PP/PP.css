@@ -1,0 +1,21 @@
+.PP{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 50px;
+}
+.PP img{
+    width: 400px;
+}
+.PP h1{
+    font-size: 40px;
+    font-weight: 200;
+    line-height: 70px;
+    letter-spacing: 2px;
+}
+.PP ul li{
+    font-size: 25px;
+    margin: 10px;
+    line-height: 40px;
+    color: gray;
+    font-weight: 200;
+}

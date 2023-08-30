@@ -1,0 +1,39 @@
+.Sparkshorts .Baner{
+    height: 800px;
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1547225322393-K2KZ5IMCV4LVA5QDDOI4/head_black.jpg?format=2500w');
+}
+.Sparkshorts1{
+    width: 1100px;
+    margin: auto;
+}
+.Sparkshorts .Baner img{
+    margin: 300px 230px;
+    width: 1000px;
+}
+.Sparkshorts11{
+    width: 1000px;
+}
+.Sparkshorts11 p{
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: gray;
+}
+.hr{
+    width: 300px;
+    margin: auto;
+}
+.Sparkshorts12{
+    width: 1000px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: auto;
+}
+.Sparkshorts12 .Animation img{
+    width: 250px;
+    height: auto;
+}
+.Animation{
+    width: 250px;
+    margin: 20px 0px;
+}

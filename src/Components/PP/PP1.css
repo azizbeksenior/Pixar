@@ -1,0 +1,13 @@
+#PP1_li{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.PP1 ul li{
+    font-size: 20px;
+    font-weight: 400;
+    color: gray;
+}
+.PP1 ul li img{
+    width: 210px;
+    height: 200px;
+}

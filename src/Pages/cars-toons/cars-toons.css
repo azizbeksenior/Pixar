@@ -1,0 +1,16 @@
+.Cars_toons .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1547160784535-NRTE397X9HC0V0PM8BYU/ctoons_head.jpg?format=2500w');
+}
+.Cars_toons1{
+    width: 1200px;
+    margin: auto;
+}
+.Cars_toons11{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.Cars_toons11 .Animation img{
+    width: 200px;
+    height: auto;
+    margin-top: 150px;
+}

@@ -1,0 +1,18 @@
+.Baner_a{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1597338733836-SYOWYG6YGFA4X6ANT5V8/part1.jpg?format=2500w');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    padding: 200px 0px;
+}
+.Baner_a p{
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: 10px;
+    font-weight: 700;
+    color: white;
+    width: 490px;
+    text-align: center;
+    margin: auto;
+}

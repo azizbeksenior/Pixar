@@ -1,0 +1,36 @@
+.About_str1 ul li {
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    color: gray;
+}
+.About_str1 .img{
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    display: none;
+}
+.About_str1 .img img{
+    width: 230px;
+    height: 230px;
+    margin: 10px;
+}
+.About_str1 .img1{
+    display: grid;
+    grid-template-columns:auto auto auto auto auto ;
+    display: none;
+}
+.About_str1 .img1 img{
+    width: 180px;
+    height: 180px;
+    margin: 10px;
+}
+.About_str1 .img2{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    display: none;
+}
+.About_str1 .img2 img{
+    width: 140px;
+    height: 140px;
+    margin: 13px;
+}
