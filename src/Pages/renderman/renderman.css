@@ -1,0 +1,51 @@
+.Renderman .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1436213575533-235SMFT58CE4ATQT2XMU/rm_in1.jpg?format=2500w');
+}
+.Renderman1{
+    width: 1200px;
+    margin: auto;
+}
+.Renderman11{
+    width: 1000px;
+    margin: auto;
+}
+.Renderman11 h2{
+    font-size: 40px;
+    font-weight: 400;
+    color: gray;
+    line-height: 60px;
+}
+.Renderman1 p{
+    font-size: 20px;
+    line-height: 40px;
+    color: gray;
+    letter-spacing: 1px;
+}
+.Renderman11 #p{
+    font-size: 15px;
+}
+.Renderman11 a{
+    display: flex;
+    padding: 20px;
+    color: black;
+    border: 2px solid black;
+    width: 300px;
+    margin: auto;
+    justify-content: center;
+    transition: all 0.5s;
+}
+.Renderman11 a:hover{
+    background-color: black;
+    color: white;
+}
+.Renderman12 img{
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+}
+.Renderman1 #p{
+    font-size: 16px;
+    color: black;
+    letter-spacing: 5px;
+    text-align: center;
+}

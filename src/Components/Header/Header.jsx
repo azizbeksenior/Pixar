@@ -15,14 +15,14 @@ export default function Header() {
                 <li><Link to={'/sparkshorts'} id='li_a'>SPARKSHORTS</Link></li>
                 <li><Link to={'/cars_toons'} id='li_a'>CARS TOONS</Link></li>
                 <li><Link to={'/toy-story-toons'} id='li_a'>TOY STORY TOONS</Link></li>
-                <li><Link to={''} id='li_a'>HOME ENTERTAINMENT</Link></li>
+                <li><Link to={'/home-entertainment'} id='li_a'>HOME ENTERTAINMENT</Link></li>
             </ul>
             </li>
             <li><Link to={''}>TECHNOLOGY</Link>
             <ul>
-                <li><Link to={''} id='li_a'>RENDERMAN</Link></li>
-                <li><Link to={''} id='li_a'>USD</Link></li>
-                <li><Link to={''} id='li_a'>RESEARCH AND OPEN SOURCE</Link></li>
+                <li><Link to={'/renderman'} id='li_a'>RENDERMAN</Link></li>
+                <li><Link to={'/USD'} id='li_a'>USD</Link></li>
+                <li><a href='https://graphics.pixar.com/' target='_blank' id='li_a'>RESEARCH AND OPEN SOURCE</a></li>
             </ul></li>
             <li><Link to={''}>CAREERS</Link>
             <ul>

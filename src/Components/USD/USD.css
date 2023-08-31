@@ -1,0 +1,55 @@
+.USD .Baner_1{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1657654403935-QBE36UDCM1OYFA5LNDLI/s008_102T_cs.sel16.649.jpg?format=2500w');
+    height: 700px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    flex-direction: column;
+    color: white;
+    
+}
+.USD .Baner_1 h1{
+    font-size: 130px;
+    font-weight: 600;
+    letter-spacing: 20px;
+}
+.USD .Baner_1 h2{
+    font-size: 40px;
+    font-weight: 500;
+}
+.USD11{
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 1300px;
+    gap: 100px;
+    margin: auto;
+}
+.USD111 img{
+    width: 700px;
+}
+.USD112 img{
+    width: 400px;
+}
+.USD p{
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    color: gray;
+}
+.USD1 a{
+    color: aqua;
+    text-decoration: solid 1px underline;
+    font-weight: 600;
+    font-size: 20px;
+}
+.USD h1{
+    font-size: 40px;
+    font-weight: 600;
+}
+.USD b{
+    font-size: 25px;
+    color: gray;
+}

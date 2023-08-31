@@ -12,6 +12,9 @@ import Disneyplus from './Pages/disneyplus/disneyplus';
 import Sparkshorts from './Pages/sparkshorts/sparkshorts';
 import Cars_toons from './Pages/cars-toons/cars-toons';
 import Toy_story_toons from './Pages/toy-story-toons/toy-story-toons';
+import Home_entertainment from './Pages/home-entertainment/home-entertainment';
+import USD from './Components/USD/USD';
+import Renderman from './Pages/renderman/renderman';
 import {Routes , Route } from 'react-router-dom'
 
 function App() {
@@ -31,6 +34,9 @@ function App() {
         <Route path='sparkshorts' element={<Sparkshorts/>}/>
         <Route path='cars_toons' element={<Cars_toons/>}/>
         <Route path='toy-story-toons' element={<Toy_story_toons/>}/>
+        <Route path='home-entertainment' element={<Home_entertainment/>}/>
+        <Route path='renderman' element={<Renderman/>}/>
+        <Route path='USD' element={<USD/>}/>
       </Routes>
     </div>
   );

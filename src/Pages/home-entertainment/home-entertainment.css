@@ -1,0 +1,19 @@
+.Home_entertainment .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1547160546417-IJFKUY76LQ5X5U22Y8SU/hes_head.jpg?format=2500w');
+}
+.Home_entertainment1 .Animation img{
+    width: 200px;
+    height: auto;
+    margin-top: 150px;
+}
+.Animation{
+    width: 200px;
+}
+.Home_entertainment11{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.Home_entertainment1{
+    width: 1200px;
+    margin: auto;
+}
