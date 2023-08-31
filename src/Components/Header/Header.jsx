@@ -26,14 +26,14 @@ export default function Header() {
             </ul></li>
             <li><Link to={''}>CAREERS</Link>
             <ul>
-                <li><Link to={''} id='li_a'>CAREERS AT PIXAR</Link></li>
+                <li><Link to={'/'} id='li_a'>CAREERS AT PIXAR</Link></li>
                 <li><Link to={''} id='li_a'>INTERNSHIPS</Link></li>
                 <li><Link to={''} id='li_a'>LIFE AT PIXAR</Link></li>
                 <li><Link to={''} id='li_a'>EVENTS</Link></li>
             </ul></li>
             <li><Link to={''}>EXTRAS</Link>
             <ul>
-                <li><Link to={''} id='li_a'>ART EXHIBITION</Link></li>
+                <li><Link to={'/pixar-building-characters'} id='li_a'>ART EXHIBITION</Link></li>
                 <li><Link to={''} id='li_a'>EMOTIONS AT PLAY</Link></li>
                 <li><Link to={''} id='li_a'>THE SCIENCE BEHIND PIXAR</Link></li>
                 <li><Link to={''} id='li_a'>PIXAR IN Link BOX</Link></li>

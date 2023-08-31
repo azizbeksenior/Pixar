@@ -1,0 +1,41 @@
+.Pixar_building_characters .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1621901820239-L974JY5K08KICI5AX243/1.jpg?format=2500w');
+    height: 800px;
+}
+.Pixar_building_characters1 , .Pixar_building_characters2{
+    width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 80px;
+}
+.Pixar_building_characters11 h1 , .Pixar_building_characters21 h1{
+    font-size: 50px;    
+    letter-spacing: 10px;
+    line-height: 50px;
+}
+.Pixar_building_characters11 img , .Pixar_building_characters21 img{
+    width: 800px;
+}
+.Pixar_building_characters11 , .Pixar_building_characters21{
+    width: 800px;
+}
+.a1{
+    width: 1200px;
+    margin: auto;
+}
+.Pixar_building_characters11 #p , .Pixar_building_characters21 #p{
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: gray;
+}
+.Pixar_building_characters .a1 img{
+    width: 280px;
+    height: 280px;
+    margin: 200px 10px 10px 10px;
+}
+.Pixar_building_characters21 .img img{
+    width: 250px;
+    margin: 40px 16px 10px 0px;
+}

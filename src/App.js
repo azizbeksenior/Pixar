@@ -15,6 +15,7 @@ import Toy_story_toons from './Pages/toy-story-toons/toy-story-toons';
 import Home_entertainment from './Pages/home-entertainment/home-entertainment';
 import USD from './Components/USD/USD';
 import Renderman from './Pages/renderman/renderman';
+import Pixar_building_characters from './Pages/pixar-building-characters/pixar-building-characters';
 import {Routes , Route } from 'react-router-dom'
 
 function App() {
@@ -37,6 +38,7 @@ function App() {
         <Route path='home-entertainment' element={<Home_entertainment/>}/>
         <Route path='renderman' element={<Renderman/>}/>
         <Route path='USD' element={<USD/>}/>
+        <Route path='pixar-building-characters' element={<Pixar_building_characters/>}/>
       </Routes>
     </div>
   );
