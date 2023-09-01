@@ -14,11 +14,17 @@
     letter-spacing: 10px;
     line-height: 50px;
 }
-.Pixar_building_characters11 img , .Pixar_building_characters21 img{
+.Pixar_building_characters11 img {
     width: 800px;
 }
-.Pixar_building_characters11 , .Pixar_building_characters21{
+.Pixar_building_characters11 {
     width: 800px;
+}
+.Pixar_building_characters21{
+    width: 700px;
+}
+.Pixar_building_characters21 img{
+    width: 700px;
 }
 .a1{
     width: 1200px;
@@ -36,6 +42,6 @@
     margin: 200px 10px 10px 10px;
 }
 .Pixar_building_characters21 .img img{
-    width: 250px;
-    margin: 40px 16px 10px 0px;
+    width: 200px;
+    margin: 100px 14px;
 }

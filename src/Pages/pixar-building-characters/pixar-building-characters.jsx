@@ -225,72 +225,75 @@ This exhibit will give you an inside view of Pixar’s visual design process, fr
             theme={'CIUDAD DE LAS ARTES Y LAS CIENCIAS'}
             logo={'VALENCIA, SPAIN'}
             data={'JUNE 2–AUGUST 30, 2015'}
+            /> <br /><br /> <hr /><br /><br />
+            <div className="Name2"><p>PAST SHOWS</p></div><br /><br />
+            <div className="Name2"><p><b>PIXAR: 20 YEARS OF ANIMATION</b></p></div><br /><br />
+            <Name2
+            theme={'MUSEUM OF MODERN ART'}
+            logo={'NEW YORK, NEW YORK, UNITED STATES'}
+            data={'DECEMBER 14, 2005–FEBRUARY 6, 2006'}
             />
             <Name2
-            theme={''}
-            logo={''}
-            data={''}
+            theme={'SCIENCE MUSEUM'}
+            logo={'LONDON, UNITED KINGDOM'}
+            data={'APRIL 1–JUNE 10, 2006'}
             />
             <Name2
-            theme={''}
-            logo={''}
-            data={''}
+            theme={'MORI ARTS CENTER GALLERY'}
+            logo={'TOKYO, JAPAN'}
+            data={'JULY 1–AUGUST 27, 2006'}
             />
             <Name2
-            theme={''}
-            logo={''}
-            data={''}
+            theme={'KORIYAMA CITY MUSEUM OF ART'}
+            logo={'KORIYAMA, JAPAN'}
+            data={'SEPTEMBER 2–OCTOBER 9, 2006'}
             />
             <Name2
-            theme={''}
-            logo={''}
-            data={''}
+            theme={'HYOGO PREFECTURAL MUSEUM OF ART'}
+            logo={'KOBE, JAPAN'}
+            data={'DECEMBER 2, 2006–JANUARY 14, 2007'}
             />
             <Name2
-            theme={''}
-            logo={''}
-            data={''}
+            theme={'THE NATIONAL MUSEUM OF SCOTLAND'}
+            logo={'EDINBURGH, SCOTLAND'}
+            data={'MARCH 2–MAY 28, 2007'}
             />
             <Name2
-            theme={''}
-            logo={''}
-            data={''}
+            theme={'AUSTRALIAN CENTRE FOR THE MOVING IMAGE'}
+            logo={'MELBOURNE, AUSTRALIA'}
+            data={'JUNE 28–OCTOBER 14, 2007'}
             />
             <Name2
-            theme={''}
-            logo={''}
-            data={''}
+            theme={'HELSINKI CITY MUSEUM'}
+            logo={'HELSINKI, FINLAND'}
+            data={'JANUARY 29–APRIL 27, 2008'}
             />
             <Name2
-            theme={''}
-            logo={''}
-            data={''}
+            theme={'HANGARAM DESIGN MUSEUM'}
+            logo={'|SEOUL, KOREA'}
+            data={'JULY 2–SEPTEMBER 7, 2008'}
             />
             <Name2
-            theme={''}
-            logo={''}
-            data={''}
+            theme={'MUSEO DE ARTE CONTEMPORÁNEO DE MONTERREY'}
+            logo={'MONTERREY, MEXICO'}
+            data={'MARCH 7–JUNE 7, 2009'}
             />
             <Name2
-            theme={''}
-            logo={''}
-            data={''}
+            theme={'TAIPEI FINE ARTS MUSEUM'}
+            logo={'TAIPEI, TAIWAN'}
+            data={'AUGUST 7–NOVEMBER 1, 2009'}
             />
             <Name2
-            theme={''}
-            logo={''}
-            data={''}
+            theme={'KAOHSIUNG MUSEUM OF FINE ARTS'}
+            logo={'KAOHSIUNG, TAIWAN'}
+            data={'DECEMBER 8, 2009–MARCH 7, 2010'}
             />
             <Name2
-            theme={''}
-            logo={''}
-            data={''}
+            theme={'SCIENCE CENTRE SINGAPORE'}
+            logo={'REPUBLIC OF SINGAPORE'}
+            data={'APRIL 2–JUNE 27, 2010'}
             />
-            <Name2
-            theme={''}
-            logo={''}
-            data={''}
-            />
+            <br /> <hr />
           </div>
         </div>
         <End/>
