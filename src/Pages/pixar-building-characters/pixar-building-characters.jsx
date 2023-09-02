@@ -295,7 +295,7 @@ This exhibit will give you an inside view of Pixar’s visual design process, fr
             />
             <br /> <hr />
           </div>
-        </div>
+        </div> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
         <End/>
     </div>
   )

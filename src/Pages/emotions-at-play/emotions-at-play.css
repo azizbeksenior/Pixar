@@ -1,0 +1,29 @@
+.emotions-at-play .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1621900978764-VT6DX1LH1DUHWPBQPQ8H/3.jpg?format=2500w');
+    height: 700px;
+}
+.emotions-at-play1{
+    width: 1250px;
+    margin: auto;
+}
+.emotions-at-play1 img{
+    width: 390px;
+    height: 380px;
+    margin: 100px 10px;
+}
+.emotions-at-play21 h1{
+    font-size: 50px;    
+    letter-spacing: 10px;
+    line-height: 50px;
+}
+.emotions-at-play21 p{
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: gray;
+}
+.emotions-at-play2{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 100px;
+}

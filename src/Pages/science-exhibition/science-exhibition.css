@@ -1,0 +1,22 @@
+.Science_exhibition .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1469814581742-I5Q2UEQDM2TSE95VD3XZ/green.jpg?format=2500w');
+    height: 700px;
+}
+.Science_exhibition1{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 100px;
+    width: 1200px;
+    margin: auto;
+    margin-top: 100px;
+}
+.Science_exhibition1 h1{
+    font-size: 40px;    
+    font-weight: 400;
+}
+.Science_exhibition11 p{
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: gray;
+}
