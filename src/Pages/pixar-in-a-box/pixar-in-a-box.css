@@ -1,0 +1,30 @@
+.Pixar_in_a_box .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1540499522910-PU6GN2GC70A9LF2XW734/piab_head2.jpg?format=2500w');
+}
+.Pixar_in_a_box1{
+    width: 1300px;
+    margin: auto;
+    text-align: center;
+}
+.Pixar_in_a_box1 #p{
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: gray;
+}
+.Pixar_in_a_box1 #a{
+    padding: 20px 30px;
+    letter-spacing: 2px;
+    background-color: white;
+    border: 2px solid black;
+    color: black;
+    transition: 0.5s all;
+}
+.Pixar_in_a_box1 #a:hover{
+    background-color: black;
+    color: white;
+}
+.Pixar_in_a_box1 .img img{
+    width: 350px;
+    margin: 30px;
+}

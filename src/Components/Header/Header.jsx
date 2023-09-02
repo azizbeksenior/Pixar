@@ -36,7 +36,7 @@ export default function Header() {
                 <li><Link to={'/pixar-building-characters'} id='li_a'>ART EXHIBITION</Link></li>
                 <li><Link to={'/emotions-at-play'} id='li_a'>EMOTIONS AT PLAY</Link></li>
                 <li><Link to={'/science-exhibition'} id='li_a'>THE SCIENCE BEHIND PIXAR</Link></li>
-                <li><Link to={''} id='li_a'>PIXAR IN Link BOX</Link></li>
+                <li><Link to={'/pixar-in-a-box'} id='li_a'>PIXAR IN Link BOX</Link></li>
             </ul></li>
             <li><Link to={''}>ABOUT</Link>
             <ul>
