@@ -1,7 +1,6 @@
 import './pixar-in-a-box.css'
 import Header from '../../Components/Header/Header'
 import Baner_a2 from '../../Components/Baner/Baner_a2'
-import Name2 from '../../Components/Name/Name2'
 import End from '../../Components/End/End'
 
 export default function Pixar_in_a_box() {

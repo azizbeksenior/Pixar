@@ -19,6 +19,7 @@ import Pixar_building_characters from './Pages/pixar-building-characters/pixar-b
 import Emotions_at_play from './Pages/emotions-at-play/emotions-at-play';
 import Science_exhibition from './Pages/science-exhibition/science-exhibition';
 import Pixar_in_a_box from './Pages/pixar-in-a-box/pixar-in-a-box';
+import Events from './Pages/events/events';
 import {Routes , Route } from 'react-router-dom'
 
 function App() {
@@ -45,6 +46,7 @@ function App() {
         <Route path='emotions-at-play' element={<Emotions_at_play/>}/>
         <Route path='science-exhibition' element={<Science_exhibition/>}/>
         <Route path='pixar-in-a-box' element={<Pixar_in_a_box/>}/>
+        <Route path='events' element={<Events/>}/>
       </Routes>
     </div>
   );
