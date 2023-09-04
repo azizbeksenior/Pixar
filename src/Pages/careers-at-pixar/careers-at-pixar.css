@@ -1,0 +1,60 @@
+.Baner_c .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1417558138947-9K5W98C5PDLKGGJ92E9W/jobs3.jpg?format=2500w');
+    height: 700px;
+}
+.Baner_c1 .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1417558650496-9IPK76GLVQCGHLIOYTZG/faq.jpg?format=2500w');
+    height: 810px;
+}
+.Careers_at_pixar1 ,.Careers_at_pixar2{
+    width: 1200px;
+    margin: auto;
+}
+.Careers_at_pixar1{
+    text-align: center;
+}
+.Careers_at_pixar1 h1{
+    font-size: 38px;
+    font-weight: 350;
+    letter-spacing: 1px;
+}
+.Careers_at_pixar1 p{
+    padding: 0px 90px;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: gray;
+}
+.Careers_at_pixar1 a{
+    padding: 20px 40px;
+    border: 2.5px solid black;
+    color: black;
+    transition: all 0.5s;
+}
+.Careers_at_pixar1 a:hover{
+    background-color: black;
+    color: white;
+}
+.Careers_at_pixar1 img{
+    width: 360px;
+    height: 350px;
+    margin: 20px;
+}
+.Careers_at_pixar2 p{
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: gray;
+}
+.Careers_at_pixar2 p b{
+    color: rgb(99, 99, 99);
+    font-size: 25px;
+}
+.Careers_at_pixar2 a img{
+    width: 500px;
+}
+.Careers_at_pixar2 a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
