@@ -27,7 +27,7 @@ export default function Header() {
             <li><Link to={''}>CAREERS</Link>
             <ul>
                 <li><Link to={'/careers-at-pixar'} id='li_a'>CAREERS AT PIXAR</Link></li>
-                <li><Link to={''} id='li_a'>INTERNSHIPS</Link></li>
+                <li><Link to={'/internships'} id='li_a'>INTERNSHIPS</Link></li>
                 <li><Link to={''} id='li_a'>LIFE AT PIXAR</Link></li>
                 <li><Link to={'/events'} id='li_a'>EVENTS</Link></li>
             </ul></li>

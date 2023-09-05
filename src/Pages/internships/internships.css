@@ -1,0 +1,50 @@
+.Internships .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1574809669018-D1DEUALJUGF27HTI8AFB/20160701PixarCampus11.jpg?format=2500w');
+    height: 730px;
+}
+.Internships1 h1{
+    font-size: 38px;
+    font-weight: 350;
+    letter-spacing: 1px;
+}
+.Internships1{
+    width: 1150px;
+    margin: auto;
+}
+.Internships1 p{
+    font-size: 18px;
+    line-height: 35px;
+    letter-spacing: 1px;
+    color: gray;
+}
+.Internships11{
+    text-align: center;
+}
+.Internships11 #a{
+    padding: 20px 40px;
+    border: 2.5px solid black;
+    color: black;
+    transition: all 0.5s;
+}
+.Internships11 #a:hover{
+    background-color: black;
+    color: white;
+}
+.Internships11 .img{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+}
+.Internships11 .img img{
+    width: 170px;
+    height: 170px;
+}
+.Internships11 #p{
+    font-size: 15px;
+    letter-spacing: 2px;
+    line-height: 40px;
+    color: black;
+}
+.Internships1 ul li{
+    list-style: initial;
+    margin: 15px 40px;
+}
