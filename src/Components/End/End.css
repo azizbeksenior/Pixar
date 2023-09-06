@@ -4,32 +4,44 @@
 #icon{
     font-size: 30px;
     margin: 8px;
+    color: rgb(50, 50, 50);
+    transition: all 0.5s;
+}
+#icon:hover{
+    color: black;
 }
 .End_icons{
     margin: 50px 0px;
+}
+.End_1 {
+    line-height: 30px;
+    margin-bottom:50px ;
 }
 .End_1 a{
     color: black;
     text-decoration: underline solid 1px;
     margin: 10px;
-    letter-spacing: 2px;
-    line-height: 20px;
+    letter-spacing: 4px;
     font-weight: 300;
+    transition: all 0.5s;
+}
+.End_1 a:hover{
+    color: gray;
 }
 .End_1 p{ 
     font-weight: 300;
     letter-spacing: 3px;
 }
-.End_1 button{
+.End_1 #a1{
     background-color: white;
     border: 1.5px solid rgb(20, 213, 20);
     color:rgb(20, 213, 20);
     padding: 20px;
     font-size: 18px;
-    margin-bottom:50px ;
     transition: all 0.5s;
+    text-decoration: none;
 }
-.End_1 button:hover{
+.End_1 #a1:hover{
     background-color:rgb(20, 213, 20);
     color: white;
 }
