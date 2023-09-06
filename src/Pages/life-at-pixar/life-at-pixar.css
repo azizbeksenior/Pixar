@@ -1,0 +1,15 @@
+.Life_at_pixar .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1595599807928-Q9FA7CUO2L3HPNDKAFN7/20191028OnwardPixarAtriumArt04.jpg?format=2500w');
+}
+.Life_at_pixar1{
+    width: 1200px;
+    margin: auto;
+}
+.Life_at_pixar1 img{
+    width: 1200px;
+}
+.Life_at_pixar1 .img img{
+    width: 180px;
+    height: 160px;
+    margin:10px ;
+}

@@ -22,6 +22,7 @@ import Pixar_in_a_box from './Pages/pixar-in-a-box/pixar-in-a-box';
 import Events from './Pages/events/events';
 import Careers_at_pixar from './Pages/careers-at-pixar/careers-at-pixar';
 import Internships from './Pages/internships/internships';
+import Life_at_pixar from './Pages/life-at-pixar/life-at-pixar';
 import {Routes , Route } from 'react-router-dom'
 
 function App() {
@@ -51,6 +52,7 @@ function App() {
         <Route path='events' element={<Events/>}/>
         <Route path='careers-at-pixar' element={<Careers_at_pixar/>}/>
         <Route path='internships' element={<Internships/>}/>
+        <Route path='life-at-pixar' element={<Life_at_pixar/>}/>
       </Routes>
     </div>
   );
