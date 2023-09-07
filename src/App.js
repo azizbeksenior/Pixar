@@ -23,11 +23,13 @@ import Events from './Pages/events/events';
 import Careers_at_pixar from './Pages/careers-at-pixar/careers-at-pixar';
 import Internships from './Pages/internships/internships';
 import Life_at_pixar from './Pages/life-at-pixar/life-at-pixar';
+import Personaj from './Components/Personaj/Personaj';
 import {Routes , Route } from 'react-router-dom'
 
 function App() {
   return (
     <div className="App">
+      <Personaj/>
       <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='LEADERSHIP' element={<LEADERSHIP/>}/>

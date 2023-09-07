@@ -1,0 +1,24 @@
+.Personaj h1{
+    font-size: 35px;
+    font-weight: 400;
+}
+.Personaj p{
+    font-size: 20px;
+    line-height: 35px;
+    letter-spacing: 1px;
+    color: gray;
+}
+.Personaj{
+    width: 1100px;
+    margin: auto;
+}
+.Personaj .img{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin: auto;
+}
+.Personaj img{
+    width: 250px;
+    height: 230px;
+    margin: 10px 0px;
+}
