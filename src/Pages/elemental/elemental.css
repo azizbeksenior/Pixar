@@ -1,0 +1,54 @@
+.Elemental1 #img{
+    width: 1000px;
+    margin-left:70px ;
+}
+.Elemental1 , .Elemental3{
+    width: 1200px;
+    margin: auto;
+}
+.Elemental1 p{
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: gray;
+    width: 1000px;
+    margin: auto;
+}
+.Elemental1 h1 {
+    font-size: 35px;
+    font-weight: 400;
+}
+.Elemental1 .img {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.Elemental1 .img img{
+    width: 36vw;
+}
+.Elemental .B1 .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1685573029468-8YZID2NMMLICHS87B0BB/m551_11_pub.pub16.158.jpg?format=2500w');
+    height: 600px;
+}
+.Elemental2 .a2 .Personaj .img {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.Elemental2 .a2 .Personaj #abs{
+    display: none;
+}
+.Elemental2 .a2 .Personaj .img img{
+    width: 380px;
+    height: 360px;
+    margin: 10px;
+}
+.Elemental .Ban .Baner_a2{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1686003535713-967DYFRYLB635P9HCT1B/m325_300f_pub.pub16.1759.jpg?format=2500w');
+    height: 550px;
+}
+.Elemental3 .PP{
+    display: grid;
+    grid-template-columns: auto ;
+}
+.Elemental3 .PP img{
+    width: 1200px;
+}

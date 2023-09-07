@@ -12,8 +12,8 @@ export default function Personaj({theme , about , img1, img2 , img3 , img4 , img
             <img src={img4} alt="" />
             <img src={img5} alt="" />
             <img src={img6} alt="" />
-            <img src={img7} alt="" />
-            <img src={img8} alt="" />
+            <img src={img7} alt=""  id='abs'/>
+            <img src={img8} alt=""  id='abs'/>
         </div>
         <br /><br /> <hr /><br /><br />
     </div>
