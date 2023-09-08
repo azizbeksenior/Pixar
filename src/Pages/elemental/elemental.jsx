@@ -3,6 +3,7 @@ import Header from '../../Components/Header/Header'
 import Baner_a2 from '../../Components/Baner/Baner_a2'
 import Personaj from '../../Components/Personaj/Personaj'
 import PP from '../../Components/PP/PP'
+import Name2 from '../../Components/Name/Name2'
 import End from '../../Components/End/End'
 
 export default function Elemental() {
@@ -190,6 +191,23 @@ export default function Elemental() {
             img8={'https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1686008696457-RL6KFKODGE4Z1WG9FM3K/m515_10_cs.sel16.1270.jpg?format=750w'}
             />
         </div> <br /><br /><br /> <br />
+        <div className="Elemental4">
+            <Name2
+            theme={'EMBER'}
+            logo={'LEAH LEWIS'}/> <br />
+            <Name2
+            theme={'WADE'}
+            logo={'MAMOUDOU ATHIE'}/> <br />
+            <Name2
+            theme={'BERNIE '}
+            logo={'RONNIE DEL CARMEN'}/> <br />
+            <Name2
+            theme={'CINDER'}
+            logo={'SHILA OMMI'}/> <br />
+            <Name2
+            theme={'GALE '}
+            logo={'WENDI MCLENDON-COVEY'}/> <br />
+        </div>
         <End/>
     </div>
   )

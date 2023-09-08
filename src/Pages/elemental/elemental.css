@@ -2,7 +2,7 @@
     width: 1000px;
     margin-left:70px ;
 }
-.Elemental1 , .Elemental3{
+.Elemental1 , .Elemental3 , .Elemental4{
     width: 1200px;
     margin: auto;
 }
@@ -51,4 +51,7 @@
 }
 .Elemental3 .PP img{
     width: 1200px;
+}
+.Elemental4{
+    text-align: center;
 }
