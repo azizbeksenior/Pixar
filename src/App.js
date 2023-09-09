@@ -24,6 +24,7 @@ import Careers_at_pixar from './Pages/careers-at-pixar/careers-at-pixar';
 import Internships from './Pages/internships/internships';
 import Life_at_pixar from './Pages/life-at-pixar/life-at-pixar';
 import Elemental from './Pages/elemental/elemental';
+import Win_or_lose from './Pages/win-or-lose/win-or-lose';
 import {Routes , Route } from 'react-router-dom'
 
 function App() {
@@ -55,6 +56,7 @@ function App() {
         <Route path='internships' element={<Internships/>}/>
         <Route path='life-at-pixar' element={<Life_at_pixar/>}/>
         <Route path='elemental' element={<Elemental/>}/>
+        <Route path='win-or-lose' element={<Win_or_lose/>}/>
       </Routes>
     </div>
   );

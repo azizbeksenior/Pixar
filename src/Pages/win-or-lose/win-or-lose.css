@@ -1,0 +1,18 @@
+.Win_or_lose1{
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+.Win_or_lose1 img{
+    width: 1200px;
+}
+.Win_or_lose1 p{
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: gray;
+}
+.Win_or_lose1 b{
+    font-size: 22px;
+    color: gray;
+}
