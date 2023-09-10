@@ -1,36 +1,38 @@
 import './App.css';
-import Home from './Pages/Home/Home';
-import LEADERSHIP from './Pages/LEADERSHIP/LEADERSHIP';
-import Inclusion from './Pages/inclusion/inclusion';
-import Supplier from './Pages/supplier/supplier';
-import Upcoming from './Pages/upcoming/upcoming';
-import Company_faqs from './Pages/company-faqs/company-faqs';
-import Story from './Pages/story/story';
-import Feature from './Pages/feature/feature';
-import Shorts from './Pages/shorts/shorts';
-import Disneyplus from './Pages/disneyplus/disneyplus';
-import Sparkshorts from './Pages/sparkshorts/sparkshorts';
-import Cars_toons from './Pages/cars-toons/cars-toons';
-import Toy_story_toons from './Pages/toy-story-toons/toy-story-toons';
-import Home_entertainment from './Pages/home-entertainment/home-entertainment';
-import USD from './Components/USD/USD';
-import Renderman from './Pages/renderman/renderman';
-import Pixar_building_characters from './Pages/pixar-building-characters/pixar-building-characters';
-import Emotions_at_play from './Pages/emotions-at-play/emotions-at-play';
-import Science_exhibition from './Pages/science-exhibition/science-exhibition';
-import Pixar_in_a_box from './Pages/pixar-in-a-box/pixar-in-a-box';
-import Events from './Pages/events/events';
-import Careers_at_pixar from './Pages/careers-at-pixar/careers-at-pixar';
-import Internships from './Pages/internships/internships';
-import Life_at_pixar from './Pages/life-at-pixar/life-at-pixar';
-import Elemental from './Pages/elemental/elemental';
-import Win_or_lose from './Pages/win-or-lose/win-or-lose';
+import Header from './Components/Header/Header';
+// import Home from './Pages/Home/Home';
+// import LEADERSHIP from './Pages/LEADERSHIP/LEADERSHIP';
+// import Inclusion from './Pages/inclusion/inclusion';
+// import Supplier from './Pages/supplier/supplier';
+// import Upcoming from './Pages/upcoming/upcoming';
+// import Company_faqs from './Pages/company-faqs/company-faqs';
+// import Story from './Pages/story/story';
+// import Feature from './Pages/feature/feature';
+// import Shorts from './Pages/shorts/shorts';
+// import Disneyplus from './Pages/disneyplus/disneyplus';
+// import Sparkshorts from './Pages/sparkshorts/sparkshorts';
+// import Cars_toons from './Pages/cars-toons/cars-toons';
+// import Toy_story_toons from './Pages/toy-story-toons/toy-story-toons';
+// import Home_entertainment from './Pages/home-entertainment/home-entertainment';
+// import USD from './Components/USD/USD';
+// import Renderman from './Pages/renderman/renderman';
+// import Pixar_building_characters from './Pages/pixar-building-characters/pixar-building-characters';
+// import Emotions_at_play from './Pages/emotions-at-play/emotions-at-play';
+// import Science_exhibition from './Pages/science-exhibition/science-exhibition';
+// import Pixar_in_a_box from './Pages/pixar-in-a-box/pixar-in-a-box';
+// import Events from './Pages/events/events';
+// import Careers_at_pixar from './Pages/careers-at-pixar/careers-at-pixar';
+// import Internships from './Pages/internships/internships';
+// import Life_at_pixar from './Pages/life-at-pixar/life-at-pixar';
+// import Elemental from './Pages/elemental/elemental';
+// import Win_or_lose from './Pages/win-or-lose/win-or-lose';
 import {Routes , Route } from 'react-router-dom'
 
 function App() {
   return (
     <div className="App">
-      <Routes>
+      
+      {/* <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='LEADERSHIP' element={<LEADERSHIP/>}/>
         <Route path='inclusion' element={<Inclusion/>}/>
@@ -57,7 +59,7 @@ function App() {
         <Route path='life-at-pixar' element={<Life_at_pixar/>}/>
         <Route path='elemental' element={<Elemental/>}/>
         <Route path='win-or-lose' element={<Win_or_lose/>}/>
-      </Routes>
+      </Routes> */}
     </div>
   );
 }
